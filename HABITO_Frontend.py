@@ -1,8 +1,3 @@
-'''
-    AUTHOR :: UBED SHAIKH
-    GITHUB :: www.github.com/ubed90
-'''
-
 from tkinter import *
 import tkinter
 from tkinter.ttk import *
